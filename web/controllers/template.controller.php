@@ -7,7 +7,7 @@ class TemplateController{
         include 'views/template.php';
     }
 
-    //main function route url
+    //main function route url https://mipage.com/
     static public function path(){
 
         //validate if the url is set
